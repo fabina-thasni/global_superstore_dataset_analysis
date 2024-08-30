@@ -1,5 +1,8 @@
 # global_superstore_dataset_analysis
-Global Superstore
+
+
+![image](https://github.com/user-attachments/assets/eab42901-05bc-43f5-83c4-3f7fef9e129d)
+
 
 The Global Superstore dataset is a popular sample dataset often used for data analysis and visualization exercises. It generally includes the following key fields:
 
